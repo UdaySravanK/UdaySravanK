@@ -9,7 +9,7 @@ My name is Uday [(uu-dha-i)](https://www.youtube.com/watch?v=e29d0qn0bOk). I'm f
 - The [RN-Swipe-Button](https://www.npmjs.com/package/rn-swipe-button) is a small open source project I built just to give something back to the community.
 
 ### Career Plans
-I have extensive knowledge, experience and passion for Android. I would like to continue working on Android realm for few more years.
+I have extensive knowledge, experience and passion for Android. I would like to continue working on the Android realm for a few more years.
 
 ### Summary of the Languages, Technologies and Tools I used
 
