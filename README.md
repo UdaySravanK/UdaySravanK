@@ -1,5 +1,5 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-sravan-kamineni-65135321) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1897654) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UDAYSRAVANK) [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=web&logoColor=white)](https://udaysravank.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-sravan-kamineni-65135321) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@UdaySravanK) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1897654) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UDAYSRAVANK) [![X](https://img.shields.io/badge/-%23000000.svg?logo=x&logoColor=white)](https://x.com/usk_kamineni)  [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=web&logoColor=white)](https://udaysravank.com)
 
 ---
 
